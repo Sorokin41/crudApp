@@ -1,0 +1,1 @@
+insert into person values(4, 'Volodya', 25, 'Volodya@mail.ru')
